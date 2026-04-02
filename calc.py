@@ -1,5 +1,5 @@
 def main():
-    print("Bye")
+    print("Hi Everyone")
 
 
 def add():
