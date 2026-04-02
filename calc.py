@@ -1,8 +1,8 @@
 def main():
-    print("Hi")
+    print("Bye")
 
 
 def add():
 
-def divide():
 
+def divide():
